@@ -4,6 +4,17 @@ _A powerful resume builder offering a wide range of templates and effortless cus
 
 ---
 
+
+## Demo Video
+
+[Watch the demo video on YouTube](https://youtu.be/ckOolNOtbK8)
+
+
+
+https://github.com/user-attachments/assets/e8bb4c55-27aa-43bb-8c2e-466625391b39
+
+
+
 ## **Features**
 
 - 🎨 **Diverse Template Selection**: Choose from multiple professional templates designed to suit various styles.
